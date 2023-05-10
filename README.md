@@ -183,6 +183,7 @@ Some extensions are not enabled and you will need to go back to do so.
  Now you will rename: ost-config.php
 •	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
+ 
 •	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 </p>
