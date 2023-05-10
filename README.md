@@ -41,7 +41,7 @@ Once you have created your VM give it a name ex:Vm-osticket. Next, you will want
 
 <img src="https://i.imgur.com/BC3MyNv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- Download Microsoft Remote Desktop to your computer or what is copatiable with your computer the one listed and shown above is compatible for Mac users.
+- Download Microsoft Remote Desktop to your computer or what is compatible with your computer.
 
 
 
