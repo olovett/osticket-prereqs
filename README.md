@@ -75,6 +75,8 @@ After logging in go to the Microsoft Edge. Click on start without data. Levae th
 
 <p>
 <img src="https://i.imgur.com/eClDo4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+ <p>
 Now you will go to the controll panle and go to programms to Install / Enable IIS in Windows WITH CGI. Next, World Wide Web Services -> Application Development Features -> [X] CGI
 <p>
 
@@ -112,8 +114,11 @@ Download and install VC_redist.x86.exe.
 <p>
 You will now need to download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 •	Typical Setup ->
+ 
 •	Launch Configuration Wizard (after install) ->
+ 
 •	Standard Configuration ->
+ 
 •	Create Password
 
 
@@ -181,6 +186,7 @@ Some extensions are not enabled and you will need to go back to do so.
 </p>
 <p>
  Now you will rename: ost-config.php
+ 
 •	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
  
@@ -192,6 +198,7 @@ Some extensions are not enabled and you will need to go back to do so.
 </p>
 <p>
 Now you will Assign Permissions: ost-config.php
+ 
 •	Disable inheritance -> Remove All
 
 •	New Permissions -> Everyone -> All
@@ -203,6 +210,7 @@ Now you will Assign Permissions: ost-config.php
 </p>
 <p>
 Now you will continue setting up osTicket in the browser (click Continue)
+ 
 •	Name Helpdesk
 
 •	Default email (receives email from customers)
@@ -213,6 +221,7 @@ Now you will continue setting up osTicket in the browser (click Continue)
 </p>
 <p>
 Congratulations, you have installed OsTicket!
+ 
 •	Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
